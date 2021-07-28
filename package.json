@@ -1,0 +1,25 @@
+{
+  "name": "lunar-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ChaeWonKong/lunar-landing.git"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "parcel",
+    "styled-components"
+  ],
+  "author": "chaewonkong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChaeWonKong/lunar-landing/issues"
+  },
+  "homepage": "https://github.com/ChaeWonKong/lunar-landing#readme"
+}
